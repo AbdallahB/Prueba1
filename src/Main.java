@@ -12,6 +12,8 @@ public class Main {
             AnimalDomestico animalDomesticoEnPosicion = bolsaDeanimales.get(i);
             animalDomesticoEnPosicion.hacerRuido();
         }
+			    
+			    Animaldomesro
 
 
                 )
