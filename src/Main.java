@@ -8,7 +8,7 @@ public class Main {
         bolsaDeanimales.add(new Perro(("Firulais","cruza calle"));
         bolsaDeanimales.add(new Gato("Bola de nieve 1","Simpson"));
 
-        for (Integer i=0;i<bolsaDeanimales.size();i++){
+        for (Integer i=0;i<bolsaDeanimales.size()){
             AnimalDomestico animalDomesticoEnPosicion = bolsaDeanimales.get(i);
             animalDomesticoEnPosicion.hacerRuido();
         }
